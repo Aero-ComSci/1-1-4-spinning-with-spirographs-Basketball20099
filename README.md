@@ -1,4 +1,7 @@
-# 1.1.4Spirographs
+# 1.1.4Spirograph
+
+The concentric square has a nested for loop. The outer loop is for the creation of the cpnecntric square, and the inner loop us how to make one square. 
+Here is the output:
 
 
 
