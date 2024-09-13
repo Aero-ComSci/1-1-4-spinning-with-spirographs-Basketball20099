@@ -1,7 +1,13 @@
 # 1.1.4Spirograph
 
+Zero Iteration and Infinite loop
+
+
 The concentric square has a nested for loop. The outer loop is for the creation of the cpnecntric square, and the inner loop us how to make one square. 
 Here is the output:
+![image](https://github.com/user-attachments/assets/a662a200-a36d-4acf-a25b-68481223fd31)
+
+
 
 
 
