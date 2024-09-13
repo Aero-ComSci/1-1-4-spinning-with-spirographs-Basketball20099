@@ -1,6 +1,9 @@
 # 1.1.4Spirograph
 
-Zero Iteration and Infinite loop
+Zero Iteration and Infinite loop:
+The zero iteration basically has a set variable, and then a while loop for a different answer. It is set at input = "no" and then the while loop only goes for answer == "yes". The infinite loop has the answer set at no, but then there is a user input, where the user can answer yes to the question, and then the loop will have it set to infinitely print what I set it to print.
+![image](https://github.com/user-attachments/assets/94eb2c4a-5746-47a0-b40e-28e1691a6513)
+
 
 
 The concentric square has a nested for loop. The outer loop is for the creation of the cpnecntric square, and the inner loop us how to make one square. 
@@ -11,10 +14,17 @@ Here is the output:
 
 
 
-4. Complete the steps 17, 18 and 19 from [mypltw use clever to sign on](https://pltw.read.inkling.com/a/b/5310c007377c46e28d745961310f0c2e/p/728c751a6c4145bea0ea83c5058fb9f9#44b0003a2ee14fcc9865e7bb5faec747)
-5. Answer to step 21
-6. Insert a screenshot or picture of the algorith you used for your tokenizer on the previous activity.
-7. Give an example of an undecidable problem, attach code.
+5. ![image](https://github.com/user-attachments/assets/f5290661-bea3-4ccc-9aaa-3ae0a1944ac2)
+6. ![image](https://github.com/user-attachments/assets/517eff44-68c1-41a5-907b-e873355b1a73)
+7. ![image](https://github.com/user-attachments/assets/e7c2725d-f823-4248-bb64-3fafe94d82e0)
+
+
+
+8. It represents an infinite loop, since it is always set at answer =="y". The code will always run the loop.
+9. ![image](https://github.com/user-attachments/assets/3a3af205-555c-49fb-b0e7-57fe7454aad5)
+
+10. ![image](https://github.com/user-attachments/assets/0c92aaa4-1eb6-49ec-9b54-304750a88a8c)
+
    
 
 
