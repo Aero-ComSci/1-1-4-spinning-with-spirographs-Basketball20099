@@ -10,6 +10,7 @@ x = -200
 y = 0
 move_x = 25  
 move_y = 25
+#Makes the line go through the middle of the screen, making it look like the image
 while (x < 200):
 
   while (y < 100):
